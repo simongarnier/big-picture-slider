@@ -1,0 +1,11 @@
+html {overflow-x: hidden;}
+*{margin:0;padding:0;}
+
+body{width:100%;background-color:black;}
+
+header,footer{height:20px;width:100%;position:fixed;background-color:black;z-index:9000;}
+header{top:0;}
+footer{bottom:0;}
+
+.slider{background-position:center;background-image:url('../image/IndianHeadTestPattern16x9.png');position:absolute;}
+
